@@ -1,0 +1,26 @@
+{
+  "name": "jquery-jkey",
+  "authors": [
+    { "name": "Oscar Godson ( http://oscargodson.com )"},
+    { "name": "Sebastian Nitu ( http://sebnitu.com )"}
+  ],
+  "description": "Key shortcuts made simple",
+  "main": "jquery.jkey.min.js",
+  "keywords": [
+    "jquery",
+    "keyboard-shortcuts"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/parth1403/jKey",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parth1403/jKey.git"
+  }
+}
