@@ -5,7 +5,7 @@
     { "name": "Sebastian Nitu ( http://sebnitu.com )"}
   ],
   "description": "Key shortcuts made simple",
-  "main": "jquery.jkey.min.js",
+  "main": "jquery.jkey.js",
   "keywords": [
     "jquery",
     "keyboard-shortcuts"
